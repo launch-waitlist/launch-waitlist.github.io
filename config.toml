@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Launch Waitlist'
+
+[params]
+description = 'Launch Waitlist'
+
+    [params.meta]
+    author = "Xennis"
+    theme_color = "#2563EB"
+    productName = 'Launch Waitlist'
